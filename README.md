@@ -1,2 +1,2 @@
 Company Website Example
-![Company Website Example](companywebsiteexample/website.PNG)
+![Company Website Example](companywebsitesample/website.PNG)
