@@ -1,2 +1,2 @@
 Company Website Example
-![](companywebsiteexample/website.PNG)
+![Company Website Example](companywebsiteexample/website.PNG)
